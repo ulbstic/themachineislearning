@@ -67,9 +67,8 @@ typeoutFallback: "31 May"
 aboutTitle: "About STIC Workshop"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
-
+ - {title: "Hands-on", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
@@ -79,13 +78,13 @@ statisticBlock:
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Presentation & Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 5
+rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Guest speakers"
-rockstarSpeakersButtonText: "See details"
+rockstarSpeakersButtonText: "See all"
 
 # Location Block
 locationBlockTitle: "Location"
@@ -127,7 +126,7 @@ partnersTitle: "Partners"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registration will be open in March. Stay Tuned!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
@@ -193,16 +192,16 @@ footerBlocks:
    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Presentation and latest news"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "sticulbworkshop"
 
 # Speakers List Block
 showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "Présentation équipe STIC"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
