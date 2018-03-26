@@ -56,9 +56,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "poster_lapin.jpeg"
-heroTitle: "Machine is learning <typeout> 2018"
+heroTitle: '"Machine is learning" <typeout> 2018'
 eventDate: "31 May, 2018"
-typeoutTextValues: '"", "31 May", "Brussels", "ULB", "Workshop"'
+typeoutTextValues: '"", "on 31 May", "in Brussels", "at ULB", "Workshop"'
 typeoutFallback: "31 May"
 #heroButtons:
 
@@ -66,8 +66,8 @@ typeoutFallback: "31 May"
 # About Block
 aboutTitle: "Program"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "This workshop wishes to offer a space to think for both researchers and practitioners to share ideas on how to redesign and apply research evaluation methods to move the field forwards." }
- - {title: "Hands-on", image: "workshop.jpg", text: "The one-day event on Thursday 31st of May is split out over a hands-on morning session and presentation of papers in the afternoon" }
+ - {title: "Workshop", image: "conference.jpg", text: "This event wishes to offer a space to think for both researchers and practitioners to share ideas on how to redesign and apply research evaluation methods to move the field forwards." }
+ - {title: "Hands-on", image: "workshop.jpg", text: "The one-day event on Thursday 31st of May is split out over a hands-on morning session and presentation of papers in the afternoon." }
  
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
