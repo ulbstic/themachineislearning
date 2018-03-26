@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "ULB RESIC Workshop 2018"
+title: "Machine Learning for InformationManagement 2018"
 email: "https://docs.google.com/forms/d/e/1FAIpQLScJZLDlhs07otWe3pOKUqno5COIW9i0gg4L31wIbPKdBMt1ew/viewform"
 description: ""
 baseurl: "/themachineislearning"
@@ -23,14 +23,14 @@ permalink: "/blog/:title"
 # Organizer Info
 organizerName: "ULB RESIC"
 organizerAlternateName: "ULB RESIC"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerDescription: "presentation"
 organizerEmail: "svhoolan@ulb.ac.be"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, text mining, machine learning, digital humanities, workshop"
+twitterAccount: "@@sethvanhooland"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/hackathon/", text: "Workshops"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/logistics/", text: "Venue"}
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLScJZLDlhs07otWe3pOKUqno5COIW9i0gg4L31wIbPKdBMt1ew/viewform", text: "Inscriptions"}
 rightNavigationButtons:
@@ -58,13 +58,13 @@ rightNavigationButtons:
 heroImage: "poster_lapin.jpeg"
 heroTitle: "STIC Workshop <typeout> 2018"
 eventDate: "31 May, 2018"
-typeoutTextValues: '"", "31 May", "Brussels", "ULB", "Campus Solbosh"'
+typeoutTextValues: '"", "31 May", "Brussels", "ULB"'
 typeoutFallback: "31 May"
 #heroButtons:
 
 
 # About Block
-aboutTitle: "About STIC Workshop"
+aboutTitle: "Program"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Hands-on", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -180,8 +180,8 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://mastic.ulb.ac.be/", text: "ULB STIC"}
+
  -
   title: "Contacts"
   links:
@@ -189,7 +189,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "https://docs.google.com/forms/d/e/1FAIpQLScJZLDlhs07otWe3pOKUqno5COIW9i0gg4L31wIbPKdBMt1ew/viewform", text: "Inscriptions"}
 
 # Blog
 blogTitle: "Presentation and latest news"

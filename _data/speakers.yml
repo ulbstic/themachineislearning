@@ -38,8 +38,8 @@
   id: 3
   name: "André"
   surname: "Vellino"
-  company: "Université d'Ottawa"
-  title: "School of Information Studies, Faculty Member"
+  company: "Université d'Ottawa, School of Electrical Engineering and Computer Science"
+  title: "Faculty Member"
   bio: ""
   thumbnailUrl: andre-vellino.jpg
   rockstar: true
