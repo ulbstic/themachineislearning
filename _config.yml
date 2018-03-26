@@ -10,11 +10,11 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Machine Learning for InformationManagement 2018"
+title: "Machine is learning 2018"
 email: "https://docs.google.com/forms/d/e/1FAIpQLScJZLDlhs07otWe3pOKUqno5COIW9i0gg4L31wIbPKdBMt1ew/viewform"
-description: ""
+description: "Machine Learning for Information Management: Bridging Theory and Pratice"
 baseurl: "/themachineislearning"
-url: "https://gdg-x.github.io"
+url: "http://themachineislearning.org"
 permalink: "/blog/:title"
 # googleAnalyticsTrackingId: "UA-43643469-5"
 # googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -23,13 +23,13 @@ permalink: "/blog/:title"
 # Organizer Info
 organizerName: "ULB RESIC"
 organizerAlternateName: "ULB RESIC"
-organizerDescription: "presentation"
+organizerDescription: "Centre de Recherche en Information et Communication, ULB"
 organizerEmail: "svhoolan@ulb.ac.be"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://resic.ulb.ac.be/"
 
 # Head
-metaKeywords: "event, text mining, machine learning, digital humanities, workshop"
+metaKeywords: "event, text mining, machine learning, digital humanities, workshop, conference"
 twitterAccount: "@MaSTICulb"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -56,9 +56,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "poster_lapin.jpeg"
-heroTitle: "STIC Workshop <typeout> 2018"
+heroTitle: "Machine is learning <typeout> 2018"
 eventDate: "31 May, 2018"
-typeoutTextValues: '"", "31 May", "Brussels", "ULB"'
+typeoutTextValues: '"", "31 May", "Brussels", "ULB", "Workshop"'
 typeoutFallback: "31 May"
 #heroButtons:
 
@@ -66,8 +66,8 @@ typeoutFallback: "31 May"
 # About Block
 aboutTitle: "Program"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Hands-on", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Conference", image: "conference.jpg", text: "This workshop wishes to offer a space to think for both researchers and practitioners to share ideas on how to redesign and apply research evaluation methods to move the field forwards." }
+ - {title: "Hands-on", image: "workshop.jpg", text: "The one-day event on Thursday 31st of May is split out over a hands-on morning session and presentation of papers in the afternoon" }
  
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -119,7 +119,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
+partnersTitle: ""
 #partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
