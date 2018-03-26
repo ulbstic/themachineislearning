@@ -2,7 +2,7 @@
   id: 1
   name: "Seth"
   surname: "van Hooland"
-  company: "Université Libre de Bruxelles, Information and Communication Science department"
+  company: "ULB, RESIC"
   title: "Associate Professor"
   bio: ""
   thumbnailUrl: seth.jpg
@@ -14,8 +14,8 @@
   id: 2
   name: "Mathias"
   surname: "Coeckelbergs"
-  company: "Université Libre de Bruxelle, Information and Communication Science department "
-  title: "Teaching Assistant and PhD Researcher"
+  company: "ULB, RESIC"
+  title: "Teaching Assistant and PhD Student"
   bio: ""
   thumbnailUrl: mathias.jpg
   rockstar: false
@@ -26,8 +26,8 @@
   id: 8
   name: "Ettore"
   surname: "Rizza"
-  company: "Université Libre de Bruxelle, Information and Communication Science department "
-  title: "PhD Researcher"
+  company: "ULB, RESIC"
+  title: "Researcher and PhD Student"
   bio: ""
   thumbnailUrl: ettore.jpg
   rockstar: false
@@ -60,7 +60,7 @@
   id: 5
   name: "Graham"
   surname: "Mcdonald"
-  company: "University of Glasgow School of Computing Science"
+  company: "University of Glasgow, School of Computing Science"
   title: "PhD Candidate"
   bio: ""
   thumbnailUrl: graham.jpg

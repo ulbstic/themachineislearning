@@ -10,21 +10,21 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "svhoolan@ulb.ac.be"
-description: "GDG DevFest is a set of events all around the world"
+title: "ULB RESIC Workshop 2018"
+email: "https://docs.google.com/forms/d/e/1FAIpQLScJZLDlhs07otWe3pOKUqno5COIW9i0gg4L31wIbPKdBMt1ew/viewform"
+description: ""
 baseurl: "/themachineislearning"
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+# googleAnalyticsTrackingId: "UA-43643469-5"
+# googleAnalyticsSiteUrl: "gdg-x.github.io"
+# siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerName: "ULB RESIC"
+organizerAlternateName: "ULB RESIC"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "svhoolan@ulb.ac.be"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLScJZLDlhs07otWe3pOKUqno5COIW9i0gg4L31wIbPKdBMt1ew/viewform"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Inscriptions"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLScJZLDlhs07otWe3pOKUqno5COIW9i0gg4L31wIbPKdBMt1ew/viewform", text: "Inscriptions"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Inscriptions"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLScJZLDlhs07otWe3pOKUqno5COIW9i0gg4L31wIbPKdBMt1ew/viewform", text: "Inscriptions"}
 
 # Hero Block
 heroImage: "poster_lapin.jpeg"
@@ -89,7 +89,7 @@ rockstarSpeakersButtonText: "See all"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "ULB Campus Solbosch"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+#eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 eventStreetAddress: "Avenue Franklin Roosevelt 50"
 eventAddressLocality: "Brussels"
 eventAddressLocalityRegion: 
