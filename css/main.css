@@ -3107,11 +3107,11 @@ nav li a.current, nav li a:hover {
 }
 
 .top-header.after-scroll nav li a {
-	color: rgba(0, 0, 0, 0.7)
+	color: rgba(0, 0, 0, 0.9)
 }
 
 .top-header.after-scroll nav li a.current, .top-header.after-scroll nav li a:hover {
-	color: rgba(0, 0, 0, 0.8)
+	color: rgba(0, 0, 0, 0.9)
 }
 
 .right-nav-button {
