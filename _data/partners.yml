@@ -1,7 +1,7 @@
-- 
-  group: "General sponsor"
-  elements: 
-    - {name: "BELSPO", description: "BELSPO", link: "http://www.belspo.be/belspo/fedra/proj.asp?l=fr&COD=BR/132/A4/HECTOR", imageUrl: "belspo.svg"}
+# - 
+#   group: "General sponsor"
+#   elements: 
+#     - {name: "BELSPO", description: "BELSPO", link: "http://www.belspo.be/belspo/fedra/proj.asp?l=fr&COD=BR/132/A4/HECTOR", imageUrl: "belspo.svg"}
 
 # - 
 #   group: "With support of"
