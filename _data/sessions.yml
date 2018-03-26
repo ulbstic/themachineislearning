@@ -71,4 +71,4 @@
   title: "Thank you all!"
   speakers: [1]
   language: en
-  service: true
+  subtype: presentation
