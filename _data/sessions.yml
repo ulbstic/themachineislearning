@@ -17,7 +17,7 @@
   title: "Wikidata reconciliation"
   description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
   subtype: workshop
-  speakers: [3]
+  speakers: [8]
   language: fr
   complexity: "Intermediate"
 -
@@ -28,48 +28,47 @@
 
 - 
   id: 005
-  title: "Experimental case-study to classify email with supervisedML"
+  title: "Keynote talk on research methodologies to evaluate the usage of ML"
   description: "Keynote talk on research methodologies to evaluate the usage of ML"
+  subtype: Keynote
+  speakers: [3]
+  language: en
+  complexity: "Intermediate" 
+- 
+  id: 006
+  title: "Experimental case-study to classify email with supervisedML"
+  description: "Experimental case-study to classify email with supervisedML"
   subtype: Keynote
   speakers: [4]
   language: en
   complexity: "Intermediate" 
 
 -
-  id: 006
-  title: "Experimental case-study to classify email with supervisedML"
-  description: "experimental case-study to classify email with supervisedML"
-  subtype: presentation
-  speakers: [5]
-  language: en
-  complexity: "Intermediate" 
--
   id: 007
   title: "Coffee Break"
   place: ""
   service: true
-
 -
-  id: 008
+  id: 010
   title: "Automatically classifying sensitive information in digital government documents"
   description: "Automatically classifying sensitive information in digital government documents"
   subtype: presentation
-  speakers: [6]
+  speakers: [5]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 011
+  title: "Using supervised ML to spot quality issues in digitised images of historical newspapers"
+  description: "Using supervised ML to spot quality issues in digitised images of historical newspapers"
+  subtype: presentation
+  speakers: [6,7]
   language: en
   complexity: "Intermediate"
 
 -
-  id: 009
-  title: "Using supervised ML to spot quality issues in digitised images of historical newspapers"
-  description: "Using supervised ML to spot quality issues in digitised images of historical newspapers"
-  subtype: presentation
-  speakers: [7,8]
-  language: en
-  complexity: "Intermediate"
--
-  id: 010
+  id: 012
   description: "Closing notes and drinks"
-  title: "Welcome !"
+  title: "Thank you all!"
   speakers: [1]
   language: en
   service: true
