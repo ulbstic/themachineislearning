@@ -30,7 +30,7 @@ organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
 metaKeywords: "event, text mining, machine learning, digital humanities, workshop"
-twitterAccount: "@@sethvanhooland"
+twitterAccount: "@MaSTICulb"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -172,9 +172,9 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/intent/user?screen_name=MaSTICulb", icon: "twitter"}
+ - {link: "https://www.facebook.com/ULBMaSTIC/", icon: "facebook"}
+ - {link: "https://www.linkedin.com/groups/3815105", icon: "linkedin"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -189,7 +189,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "https://docs.google.com/forms/d/e/1FAIpQLScJZLDlhs07otWe3pOKUqno5COIW9i0gg4L31wIbPKdBMt1ew/viewform", text: "Inscriptions"}
+   - {link: "https://docs.google.com/forms/d/e/1FAIpQLScJZLDlhs07otWe3pOKUqno5COIW9i0gg4L31wIbPKdBMt1ew/viewform", text: "Inscriptions"}
 
 # Blog
 blogTitle: "Presentation and latest news"
