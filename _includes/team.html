@@ -3,10 +3,18 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.teamBlockTitle }}</h3>
-            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.aboutUs }}</p>
+            <span class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">
+<p>This workshop is organised as a closing event of the MaSTIC research track within the <a href="http://www.belspo.be/belspo/fedra/proj.asp?l=fr&COD=BR/132/A4/HECTOR">HECTOR project</a>, a multi-year project managed by <a href="http://www.crids.eu/">CRIDS (UNamur)</a> and with the <a href="http://arch.arch.be/">Belgian State Archives</a>.</p>
+
+<p>MaSTIC proposes a two-year academic Master in Information Science with a strong focus on both practice and theory. The Master gives access to various professions such as data scientist, functional analyst, document & records manager and projects within the domain of digital humanities. Successful graduates are recruited, often already before the end of the second year, by a diversity of both public and private organisation, from agile start-ups such as <a href="www.thebiotechqualitygroup.com">The Biotech Quality Group</a> to public administrations as <a href="https://www.smals.be">SMALS</a>, or large international organisations such as the <a href="https://ec.europa.eu/">European Commission</a>. The courses are organised after 5 pm and on Saturdays, allowing students to combine the Master with an already active professional life.</p>
+
+<p> In parallel, MaSTIC also is actively involved within a large number of ongoing research projects, such <a href="http://adochs.be/">ADOCHS</a> or <a href="http://www.ugesco.be/">UGESCO</a>, and is preparing new collaborations with a variety of partners from Europe, North and South America.</p>
+
+
+            </span>
         </div>
         <div class="col-lg-10 col-lg-offset-1 text-center">
-            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Organizers</h4>
+            <h4 class="text-left animated hiding appear-animation-trigger" data-animation="fadeInUp" data-delay="0">Team</h4>
             {% for teamMember in site.data.team %} {% if teamMember.team != null %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
                 <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">

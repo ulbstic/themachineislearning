@@ -43,12 +43,12 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/hackathon/", text: "Workshops"}
- - {permalink: "/team/", text: "Team"}
+ - {permalink: "/hackathon/", text: "Hands-on"}
  - {permalink: "/logistics/", text: "Venue"}
+ - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/team/", text: "About"}
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLScJZLDlhs07otWe3pOKUqno5COIW9i0gg4L31wIbPKdBMt1ew/viewform", text: "Inscriptions"}
 rightNavigationButtons:
@@ -56,19 +56,19 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "poster_lapin.jpeg"
-heroTitle: '"Machine is learning" <typeout> 2018'
+heroTitle: '<typeout>'
 eventDate: "31 May, 2018"
-typeoutTextValues: '"", "on 31 May", "in Brussels", "at ULB", "Workshop"'
-typeoutFallback: "31 May"
+typeoutTextValues: '"", "Machine Learning for Information Management", "Free workshop in Brussels", "at Université Libre de Bruxelles", "on May 31, 2018"'
+typeoutFallback: "May 31"
 #heroButtons:
 
 
 # About Block
 aboutTitle: "Program"
 aboutBlock:
- - {title: "Workshop", image: "conference.jpg", text: "This event wishes to offer a space to think for both researchers and practitioners to share ideas on how to redesign and apply research evaluation methods to move the field forwards." }
- - {title: "Hands-on", image: "workshop.jpg", text: "The one-day event on Thursday 31st of May is split out over a hands-on morning session and presentation of papers in the afternoon." }
- 
+ - {title: "Join us!", image: "conference.jpg", text: "Machine learning provides new ways to process large amounts of unstructured documents. As information managers, archivists and librarians, how can we understand in a better way possibilities and limits of this new approach? ULB organises this free one day workshop, allowing researchers and practitioners to come together and share experiences." }
+ - {title: "Theory & Practice", image: "workshop.jpg", text: "The morning session will allow each participant to experiment hands-on with Topic Modeling and Word Embeddings, but also with data cleaning tools. International experts and academics will share their research in the afternoon session. Throughout the day, discussion and exchange of idea’s is paramount and will be promoted in various ways." }
+
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
@@ -78,7 +78,7 @@ statisticBlock:
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Presentation & Latest news"
+latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -92,13 +92,13 @@ eventLocationName: "ULB Campus Solbosch"
 #eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 eventStreetAddress: "Avenue Franklin Roosevelt 50"
 eventAddressLocality: "Brussels"
-eventAddressLocalityRegion: 
+eventAddressLocalityRegion: "Brussels"
 eventPostalCode: "1050"
 eventAddressCountry: "Belgium"
 eventStartTime: "2018-05-31T09:00"
 eventDoorTime: "08:30"
 eventEndTime: "2018-05-31T17:30"
-eventPlaceCoordinates: "50.812209, 4.384506"
+eventPlaceCoordinates: "50.81220, 4.38450"
 mapCenterCoordinates: "50.812209, 4.384506"
 mapMobileCenterCoordinates: "50.812209, 4.384506"
 
@@ -192,7 +192,7 @@ footerBlocks:
    - {link: "https://docs.google.com/forms/d/e/1FAIpQLScJZLDlhs07otWe3pOKUqno5COIW9i0gg4L31wIbPKdBMt1ew/viewform", text: "Inscriptions"}
 
 # Blog
-blogTitle: "Presentation and latest news"
+blogTitle: "Latest news"
 blogCommentsEnabled: true
 discusShortName: "sticulbworkshop"
 
@@ -200,8 +200,8 @@ discusShortName: "sticulbworkshop"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Présentation équipe STIC"
+teamBlockTitle: "About Us"
+#aboutUs: ""
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"

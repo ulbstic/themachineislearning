@@ -12,7 +12,7 @@
   id: 1
   name: "Math."
   surname: "Coeckelbergs"
-  title: "Teaching Assistant and PhD Researcher"
+  title: "Assistant/Researcher"
   thumbnailUrl: mathias.jpg
   team: true
   social: 
@@ -21,7 +21,7 @@
   id: 2
   name: "Ettore"
   surname: "Rizza"
-  title: "Researcher and PhD Student"
+  title: "Researcher/PhD Student"
   thumbnailUrl: ettore.jpg
   team: true
   social: 
@@ -41,7 +41,7 @@
   id: 4
   name: "Anne"
   surname: "Chardonnens"
-  title: "Researcher and PhD Student"
+  title: "Researcher/PhD Student"
   thumbnailUrl: anne.jpg
   team: true
   social: 
