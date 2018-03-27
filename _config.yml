@@ -193,7 +193,7 @@ footerBlocks:
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
+blogCommentsEnabled: false
 discusShortName: "sticulbworkshop"
 
 # Speakers List Block

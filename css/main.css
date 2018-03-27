@@ -3093,7 +3093,7 @@ nav li {
 }
 
 nav li a {
-	font-size: 13px;
+	font-size: 18px;
 	font-weight: 300;
 	-webkit-transition: all 0.3s;
 	transition: all 0.3s;
@@ -3101,9 +3101,15 @@ nav li a {
 	color: #fff
 }
 
-nav li a.current, nav li a:hover {
+nav li a.current {
 	text-decoration: none;
 	color: #cfcfcf
+}
+
+nav li a:hover {
+	text-decoration: none;
+	color: #000000;
+	font-size: 30px
 }
 
 .top-header.after-scroll nav li a {
@@ -3774,6 +3780,7 @@ nav li a.current, nav li a:hover {
 .blog h3 {
 	margin: 0 0 20px
 }
+
 
 .post-section {
 	padding-top: 20px
@@ -5710,7 +5717,8 @@ nav li a.current, nav li a:hover {
 	}
 
 	.jumbotron h1, .jumbotron .h1 {
-		font-size: 63px
+		font-size: 63px;
+		margin-top: 80px
 	}
 
 	.jumbotron {
