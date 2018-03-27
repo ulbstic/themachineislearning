@@ -3688,16 +3688,18 @@ nav li a:hover {
 }
 
 .partners img {
-	width: 100%;
+	width: 120%;
 	-webkit-transition: all 0.3s;
 	transition: all 0.3s;
 	-webkit-filter: grayscale(1);
-	filter: grayscale(1)
+	filter: grayscale(1);
+	margin-left: -10px 0px
 }
 
 .partners img:hover {
 	-webkit-filter: grayscale(0);
-	filter: grayscale(0)
+	filter: grayscale(0);
+	width: 200%;
 }
 
 .subscribe .email, .subscribe .button {
