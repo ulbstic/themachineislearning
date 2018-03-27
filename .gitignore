@@ -3,6 +3,7 @@
 
 ### Jekyll ###
 _site/
+automation/
 
 ### Sass ###
 .sass-cache
