@@ -1,5 +1,5 @@
 - 
-  id: 0
+  id: 1
   name: "Seth"
   surname: "van Hooland"
   title: "Associate Professor"
@@ -9,7 +9,7 @@
     - {name: "twitter", link: "https://twitter.com/sethvanhooland"}
 
 - 
-  id: 1
+  id: 2
   name: "Math."
   surname: "Coeckelbergs"
   title: "Assistant/Researcher"
@@ -18,7 +18,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/MatCoeckelbergs"}
 - 
-  id: 2
+  id: 3
   name: "Ettore"
   surname: "Rizza"
   title: "Researcher/PhD Student"
@@ -28,7 +28,7 @@
     - {name: "twitter", link: "https://twitter.com/Ettore_Rizza"}
 
 - 
-  id: 3
+  id: 4
   name: "Laurence"
   surname: "Maroye"
   title: "PhD Candidate"
@@ -38,7 +38,7 @@
     - {name: "twitter", link: "https://twitter.com/lmaroye"}
 
 - 
-  id: 4
+  id: 5
   name: "Anne"
   surname: "Chardonnens"
   title: "Researcher/PhD Student"

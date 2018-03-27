@@ -1,11 +1,11 @@
 -
   id: 001
   title: "Using LDA and W2V"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  description: ""
   subtype: workshop
   speakers: [2]
   language: en
-  complexity: "Intermediate"
+
 
 -
   id: 002
@@ -15,11 +15,11 @@
 -
   id: 003
   title: "Wikidata reconciliation"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  description: ""
   subtype: workshop
   speakers: [8]
-  language: fr
-  complexity: "Intermediate"
+  language: en/fr
+
 -
   id: 004
   title: "Lunch Break"
@@ -33,7 +33,7 @@
   subtype: Keynote
   speakers: [3]
   language: en
-  complexity: "Intermediate" 
+
 - 
   id: 006
   title: "Experimental case-study to classify email with supervisedML"
@@ -41,7 +41,7 @@
   subtype: Keynote
   speakers: [4]
   language: en
-  complexity: "Intermediate" 
+
 
 -
   id: 007
@@ -55,7 +55,7 @@
   subtype: presentation
   speakers: [5]
   language: en
-  complexity: "Intermediate"
+
 -
   id: 011
   title: "Using supervised ML to spot quality issues in digitised images of historical newspapers"
@@ -63,7 +63,7 @@
   subtype: presentation
   speakers: [6,7]
   language: en
-  complexity: "Intermediate"
+
 
 -
   id: 012
