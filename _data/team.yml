@@ -7,6 +7,7 @@
   team: true
   social: 
     - {name: "twitter", link: "https://twitter.com/sethvanhooland"}
+    - {name: "email", link: "mailto:svhoolan@ulb.ac.be"}
 
 - 
   id: 2
@@ -17,6 +18,7 @@
   team: true
   social: 
     - {name: "twitter", link: "https://twitter.com/MatCoeckelbergs"}
+    - {name: "email", link: "mailto:Mathias.Coeckelbergs@ulb.ac.be"}
 - 
   id: 3
   name: "Ettore"
@@ -26,6 +28,7 @@
   team: true
   social: 
     - {name: "twitter", link: "https://twitter.com/Ettore_Rizza"}
+    - {name: "email", link: "mailto:erizza@ulb.ac.be"}
 
 - 
   id: 4
@@ -36,6 +39,7 @@
   team: true
   social: 
     - {name: "twitter", link: "https://twitter.com/lmaroye"}
+    - {name: "email", link: "mailto:Laurence.Maroye@ulb.ac.be "}
 
 - 
   id: 5
@@ -46,3 +50,4 @@
   team: true
   social: 
     - {name: "twitter", link: "https://twitter.com/annechardo"}
+    - {name: "email", link: "mailto:anchardo@ulb.ac.be"}
