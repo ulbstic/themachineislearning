@@ -189,7 +189,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {link: "https://docs.google.com/forms/d/e/1FAIpQLScJZLDlhs07otWe3pOKUqno5COIW9i0gg4L31wIbPKdBMt1ew/viewform", text: "Inscriptions"}
+   - {link: "https://docs.google.com/forms/d/e/1FAIpQLScJZLDlhs07otWe3pOKUqno5COIW9i0gg4L31wIbPKdBMt1ew/viewform", text: "How to register ?"}
 
 # Blog
 blogTitle: "Latest news"

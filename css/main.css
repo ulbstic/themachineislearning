@@ -1651,7 +1651,11 @@ tbody.collapse.in {
 	background-color: #eee
 }
 
-.jumbotron h1, .jumbotron .h1 {
+ .jumbotron h1, .jumbotron .h1 {
+	color: #ffffff
+}
+
+#about .jumbotron h1, .jumbotron .h1 {
 	color: #000000
 }
 
