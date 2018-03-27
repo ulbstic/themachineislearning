@@ -38,8 +38,8 @@
   id: 3
   name: "André"
   surname: "Vellino"
-  company: "Université d'Ottawa, School of Electrical Engineering and Computer Science"
-  title: "Faculty Member"
+  company: "Université d'Ottawa"
+  title: "School of Electrical Engineering and Computer Science, Faculty Member"
   bio: ""
   thumbnailUrl: andre-vellino.jpg
   rockstar: true
@@ -60,8 +60,8 @@
   id: 5
   name: "Graham"
   surname: "Mcdonald"
-  company: "University of Glasgow, School of Computing Science"
-  title: "PhD Candidate"
+  company: "University of Glasgow"
+  title: "School of Computing Science, PhD Candidate"
   bio: ""
   thumbnailUrl: graham.jpg
   rockstar: true
@@ -71,8 +71,8 @@
   id: 6
   name: "Ann"
   surname: "Dooms"
-  company: "Vrije Universiteit Brussel, Digital Mathematics research group"
-  title: "Professor of Mathematics"
+  company: "Vrije Universiteit Brussel"
+  title: "Digital Mathematics research group, Professor of Mathematics"
   bio: ""
   thumbnailUrl: anndooms.jpg
   rockstar: true
@@ -82,8 +82,8 @@
   id: 7
   name: "Tan"
   surname: "Lu"
-  company: "Vrije Universiteit Brussel, Digital Mathematics research group"
-  title: "Researcher"
+  company: "Vrije Universiteit Brussel"
+  title: "Digital Mathematics research group, Researcher"
   bio: ""
   thumbnailUrl: tan.jpg
   rockstar: true

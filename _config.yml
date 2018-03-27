@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/hackathon/", text: "Hands-on"}
+ - {permalink: "/handson/", text: "Hands-on"}
  - {permalink: "/logistics/", text: "Venue"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/team/", text: "About"}
