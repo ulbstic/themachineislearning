@@ -3306,7 +3306,8 @@ nav li a:hover {
 }
 
 .about-details img {
-	width: 128px
+	width: 150px;
+	height: 150px
 }
 
 .about-details p {

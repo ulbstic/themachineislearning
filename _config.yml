@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/team/", text: "About"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLScJZLDlhs07otWe3pOKUqno5COIW9i0gg4L31wIbPKdBMt1ew/viewform", text: "Inscriptions"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLScJZLDlhs07otWe3pOKUqno5COIW9i0gg4L31wIbPKdBMt1ew/viewform", text: "Registration"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLScJZLDlhs07otWe3pOKUqno5COIW9i0gg4L31wIbPKdBMt1ew/viewform", text: "Inscriptions"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLScJZLDlhs07otWe3pOKUqno5COIW9i0gg4L31wIbPKdBMt1ew/viewform", text: "Registration"}
 
 # Hero Block
 heroImage: "poster_lapin.jpeg"
