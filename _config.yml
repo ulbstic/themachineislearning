@@ -57,8 +57,8 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "poster_lapin.jpeg"
 heroTitle: '<typeout>'
-eventDate: "31 May, 2018"
-typeoutTextValues: '"", "Machine Learning for Information Management", "Free workshop in Brussels", "at Université Libre de Bruxelles", "on May 31, 2018"'
+eventDate: "May 31, 2018"
+typeoutTextValues: '"", "Machine Learning for Information Management", "Free workshop in Brussels", "at Université Libre de Bruxelles"'
 typeoutFallback: "May 31"
 #heroButtons:
 

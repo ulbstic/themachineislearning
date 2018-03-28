@@ -1652,17 +1652,25 @@ tbody.collapse.in {
 }
 
  .jumbotron h1, .jumbotron .h1 {
-	color: #ffffff
+	color: #ffffff;
+	text-shadow: 0px 1px 3px rgba(0, 0, 0, 8);
+	font-weight: 400
 }
 
-#about .jumbotron h1, .jumbotron .h1 {
-	color: #000000
+.about .jumbotron h1, .jumbotron .h1 {
+	color: #1a2630!important;
+	margin-top: -30px!important;
+    text-shadow: none!important;
+	font-weight: 200!important
+	
 }
 
 .jumbotron p {
-	margin-bottom: 15px;
-	font-size: 21px;
-	font-weight: 200
+	font-size: 31px;
+	font-weight: 300;
+	color: #1a2630!important;
+	font-weight: 
+
 }
 
 .jumbotron>hr {
@@ -3097,8 +3105,8 @@ nav li {
 }
 
 nav li a {
-	font-size: 18px;
-	font-weight: 300;
+	font-size: 20px;
+	font-weight: 400;
 	-webkit-transition: all 0.3s;
 	transition: all 0.3s;
 	text-transform: uppercase;
@@ -3107,7 +3115,7 @@ nav li a {
 
 nav li a.current {
 	text-decoration: none;
-	color: #cfcfcf
+	color: #1a2630
 }
 
 nav li a:hover {
@@ -3117,11 +3125,11 @@ nav li a:hover {
 }
 
 .top-header.after-scroll nav li a {
-	color: rgba(0, 0, 0, 0.9)
+	color: #1a2630
 }
 
 .top-header.after-scroll nav li a.current, .top-header.after-scroll nav li a:hover {
-	color: rgba(0, 0, 0, 0.9)
+	color: #000000;
 }
 
 .right-nav-button {
