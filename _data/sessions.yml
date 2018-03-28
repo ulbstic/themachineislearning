@@ -1,7 +1,15 @@
 -
+  id: 000
+  title: "Welcome!"
+  description: ""
+  subtype: keynote
+  speakers: [1]
+  language: en
+
+-
   id: 001
   title: "Using LDA and W2V"
-  description: ""
+  description: "Learn how to use LDA and W2V to extract meaningful terms from a corpus of non-structured documents."
   subtype: workshop
   speakers: [2]
   language: en
@@ -15,7 +23,7 @@
 -
   id: 003
   title: "Wikidata reconciliation"
-  description: ""
+  description: "Learn how to convert selected terms from a corpus into meaningful concepts from Wikidata."
   subtype: workshop
   speakers: [8]
   language: en/fr
@@ -36,7 +44,7 @@
 
 - 
   id: 006
-  title: "Experimental case-study to classify email with supervisedML"
+  title: "Experimental case-study to classify email with supervised ML"
   description: "Experimental case-study to classify email with supervisedML"
   subtype: Keynote
   speakers: [4]
@@ -50,8 +58,8 @@
   service: true
 -
   id: 010
-  title: "Automatically classifying sensitive information in digital government documents"
-  description: "Automatically classifying sensitive information in digital government documents"
+  title: "Using ML to assist the discovery of sensitive information in emails"
+  description: "Using ML to assist the discovery of sensitive information in emails"
   subtype: presentation
   speakers: [5]
   language: en
@@ -68,7 +76,12 @@
 -
   id: 012
   description: "Closing notes and drinks"
-  title: "Thank you all!"
+  title: "Discussion and closing notes"
   speakers: [1]
   language: en
   subtype: presentation
+-
+  id: 013
+  title: "Drinks and informal networking"
+  place: ""
+  service: true

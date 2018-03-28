@@ -2348,6 +2348,7 @@ section {
 	text-align: center
 }
 
+
 section h3 {
 	margin-bottom: 50px
 }
@@ -3024,7 +3025,8 @@ time {
 	position: fixed;
 	z-index: 500;
 	width: 100%;
-	padding: 0 45px
+	padding: 0 45px;
+	margin: 11px 11px 0 0;
 }
 
 .top-header.after-scroll {
@@ -3323,7 +3325,8 @@ nav li a:hover {
 }
 
 .about-details p {
-	margin-top: 10px
+	margin-top: 10px;
+	text-align: left!important;
 }
 
 .statistic .stat {
