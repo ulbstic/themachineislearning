@@ -8,7 +8,7 @@
 
 -
   id: 001
-  title: "Using LDA and W2V"
+  title: "Using topic modelling and word embeddings"
   description: "Learn how to use LDA and W2V to extract meaningful terms from a corpus of non-structured documents."
   subtype: workshop
   speakers: [2]
