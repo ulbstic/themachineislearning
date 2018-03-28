@@ -3115,13 +3115,13 @@ nav li a {
 
 nav li a.current {
 	text-decoration: none;
-	color: #1a2630
+	font-size: 30px
 }
 
 nav li a:hover {
 	text-decoration: none;
-	color: #000000;
-	font-size: 30px
+	font-size: 30px;
+	color: #ffffff;
 }
 
 .top-header.after-scroll nav li a {
@@ -5868,7 +5868,7 @@ nav li a:hover {
 	}
 
 	nav li a.current, nav li a:hover {
-		color: #03a9f4
+		font-size: 30px!important;
 	}
 
 	.top-header.after-scroll nav li a {
@@ -5876,7 +5876,7 @@ nav li a:hover {
 	}
 
 	.top-header.after-scroll nav li a.current, .top-header.after-scroll nav li a:hover {
-		color: #03a9f4
+		font-size: 30px!important;
 	}
 
 	.top-section-hero .jumbotron {
