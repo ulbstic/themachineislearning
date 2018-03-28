@@ -22,7 +22,7 @@
   service: true
 -
   id: 003
-  title: "Wikidata reconciliation"
+  title: "Wikidata reconciliation with OpenRefine"
   description: "Learn how to convert selected terms from a corpus into meaningful concepts from Wikidata."
   subtype: workshop
   speakers: [8]
