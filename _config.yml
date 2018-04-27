@@ -67,7 +67,7 @@ typeoutFallback: "May 31"
 aboutTitle: "Program"
 aboutBlock:
  - {title: "Join us!", image: "conference.jpg", text: "Machine learning provides new ways to process large amounts of unstructured documents. As information managers, archivists and librarians, how can we understand in a better way possibilities and limits of this new approach? ULB organises this free one day workshop, allowing researchers and practitioners to come together and share experiences." }
- - {title: "Theory & Practice", image: "workshop.jpg", text: "The morning session will allow each participant to experiment hands-on with Topic Modeling and Word Embeddings, but also with data cleaning tools. International experts and academics will share their research in the afternoon session. Throughout the day, discussion and exchange of idea’s is paramount and will be promoted in various ways." }
+ - {title: "Theory & Practice", image: "workshop.jpg", text: "The morning session will allow each participant to experiment both with unsupervised and supervised machine learning tools. International experts and academics will share their research in the afternoon session. Throughout the day, discussion and exchange of idea’s is paramount and will be promoted in various ways." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"

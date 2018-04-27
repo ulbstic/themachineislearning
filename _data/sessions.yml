@@ -12,7 +12,7 @@
   description: "Learn how to use LDA and W2V to extract meaningful terms from a corpus of non-structured documents."
   subtype: workshop
   speakers: [2]
-  language: en
+  language: en/nl/fr
 
 
 -
@@ -22,8 +22,8 @@
   service: true
 -
   id: 003
-  title: "Wikidata reconciliation with OpenRefine"
-  description: "Learn how to convert selected terms from a corpus into meaningful concepts from Wikidata."
+  title: "Using a pre-trained classifier"
+  description: "Learn how to use supervised ML methods to automatically label a corpus of non-structured documents."
   subtype: workshop
   speakers: [8]
   language: en/fr
