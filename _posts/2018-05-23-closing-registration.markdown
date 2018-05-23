@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Publishing EC archival corpus as Open Data"
+title:  "Closing registration - full workshop"
 date:   2018-03-27 09:00:00
 image : \img\posts\closed.jpg
 isStaticPost: false
