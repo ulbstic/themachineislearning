@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Closing registration - full workshop"
-date:   2018-03-27 09:00:00
+date:   2018-05-23 09:00:00
 image : \img\posts\closed.jpg
 isStaticPost: false
 ---
