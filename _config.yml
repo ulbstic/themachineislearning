@@ -221,7 +221,7 @@ directionDetailsTitle: "Building K, Avenue Adolphe Buyl 87, 1050 Ixelles"
 directionDetailsCards:
  - {title: "Building", information: 'The workshop will take place in the room K4.401 on the Solbosch campus of the ULB. Please find a detailed campus map <a href="https://www.ulb.ac.be/campus/solbosch/plan-en-K-en.html" target="_blank">here</a>.'}
  - {title: "Address", information: 'You can access the campus from different directions but the closest address to the K building to indicate in a GPS or to a bus/taxi driver is Avenue Adolphe Buyl 87, 1050 Ixelles. You’ll find the K building just behind the large building with the mirrored windows. '}
- - {title: "Public transports", information: 'If you come by train, get out at Brussels-Central and then take the bus 71 in the direction of Delta, and get off at the stop called “ULB”. Due to traffic jams, this itinerary often takes between 30 and 40 minutes.'}
+ - {title: "Public transport", information: 'If you come by train, get out at Brussels-Central and then take the bus 71 in the direction of Delta, and get off at the stop called “ULB”. Due to traffic jams, this itinerary often takes between 30 and 40 minutes.'}
 # directionDetailsWideCards:
 #  -
 #   title: "Questions?"
