@@ -36,8 +36,8 @@
 
 - 
   id: 005
-  title: "Keynote talk on research methodologies to evaluate the usage of ML"
-  description: "Keynote talk on research methodologies to evaluate the usage of ML"
+  title: "Classifying Emails of Business Value: Can Machine Learning Recognize Context?"
+  description: "Classifying Emails of Business Value: Can Machine Learning Recognize Context?"
   subtype: Keynote
   speakers: [3]
   language: en
