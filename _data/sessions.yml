@@ -36,8 +36,8 @@
 
 - 
   id: 005
-  title: "Classifying Documents of Business Value: Can Machine Learning Recognize Context?"
-  description: "Classifying Documents of Business Value: Can Machine Learning Recognize Context?"
+  title: "Classifying Emails of Business Value: Can Machine Learning Recognize Context?"
+  description: "Classifying Emails of Business Value: Can Machine Learning Recognize Context?"
   subtype: Keynote
   speakers: [3]
   language: en
@@ -58,8 +58,8 @@
   service: true
 -
   id: 010
-  title: "Using ML to assist the discovery of sensitive information in emails"
-  description: "Using ML to assist the discovery of sensitive information in emails"
+  title: "Using ML to assist the discovery of sensitive information in documents"
+  description: "Using ML to assist the discovery of sensitive information in documents"
   subtype: presentation
   speakers: [5]
   language: en
