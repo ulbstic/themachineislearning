@@ -66,8 +66,8 @@
 
 -
   id: 011
-  title: "Physical Distorsions and Layout analysis of Document Images"
-  description: "Using supervised ML to spot quality issues in digitised images of historical newspapers"
+  title: "Physical Distorsions and Layout Analysis of Document Images"
+  description: "Physical Distorsions and Layout Analysis of Document Images"
   subtype: presentation
   speakers: [6,7]
   language: en
