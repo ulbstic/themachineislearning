@@ -36,8 +36,8 @@
 
 - 
   id: 005
-  title: "Classifying Emails of Business Value: Can Machine Learning Recognize Context?"
-  description: "Classifying Emails of Business Value: Can Machine Learning Recognize Context?"
+  title: "Classifying Documents of Business Value: Can Machine Learning Recognize Context?"
+  description: "Classifying Documents of Business Value: Can Machine Learning Recognize Context?"
   subtype: Keynote
   speakers: [3]
   language: en
@@ -66,7 +66,7 @@
 
 -
   id: 011
-  title: "Using supervised ML to spot quality issues in digitised images of historical newspapers"
+  title: "Physical Distorsions and Layout analysis of Document Images"
   description: "Using supervised ML to spot quality issues in digitised images of historical newspapers"
   subtype: presentation
   speakers: [6,7]
